@@ -503,8 +503,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:398px;
-  height:80px;
+  width:492px;
+  height:112px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -519,8 +519,8 @@
   position:absolute;
   left:16px;
   top:1317px;
-  width:398px;
-  height:80px;
+  width:492px;
+  height:112px;
   font-size:13px;
 }
 #u82_text {
@@ -528,6 +528,6 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:398px;
+  width:492px;
   white-space:nowrap;
 }
