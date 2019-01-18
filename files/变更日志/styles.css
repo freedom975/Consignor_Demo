@@ -26,7 +26,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'PingFang-SC-Regular', 'PingFang SC';
+  font-family:'PingFangSC-Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
 }
@@ -37,7 +37,7 @@
   top:10px;
   width:1000px;
   height:47px;
-  font-family:'PingFang-SC-Regular', 'PingFang SC';
+  font-family:'PingFangSC-Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
 }
@@ -100,7 +100,7 @@
   top:46px;
   width:1000px;
   height:200px;
-  font-family:'PingFang-SC-Regular', 'PingFang SC';
+  font-family:'PingFangSC-Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
   text-align:left;
@@ -196,7 +196,7 @@
   top:46px;
   width:1000px;
   height:280px;
-  font-family:'PingFang-SC-Regular', 'PingFang SC';
+  font-family:'PingFangSC-Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
   text-align:left;
@@ -292,7 +292,7 @@
   top:46px;
   width:1000px;
   height:234px;
-  font-family:'PingFang-SC-Regular', 'PingFang SC';
+  font-family:'PingFangSC-Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
   text-align:left;
@@ -388,7 +388,7 @@
   top:46px;
   width:1000px;
   height:280px;
-  font-family:'PingFang-SC-Regular', 'PingFang SC';
+  font-family:'PingFangSC-Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
   text-align:left;
@@ -484,7 +484,7 @@
   top:46px;
   width:1000px;
   height:200px;
-  font-family:'PingFang-SC-Regular', 'PingFang SC';
+  font-family:'PingFangSC-Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
   text-align:left;
@@ -582,7 +582,7 @@
   top:46px;
   width:1000px;
   height:200px;
-  font-family:'PingFang-SC-Regular', 'PingFang SC';
+  font-family:'PingFangSC-Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
   text-align:left;
@@ -602,7 +602,7 @@
   left:0px;
   top:0px;
   width:558px;
-  height:80px;
+  height:131px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -610,7 +610,6 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-size:13px;
 }
 #u86 {
   border-width:0px;
@@ -618,8 +617,7 @@
   left:16px;
   top:1558px;
   width:558px;
-  height:80px;
-  font-size:13px;
+  height:131px;
 }
 #u86_text {
   border-width:0px;
