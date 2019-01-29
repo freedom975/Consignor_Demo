@@ -995,8 +995,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:253px;
-  height:48px;
+  width:294px;
+  height:144px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -1011,8 +1011,8 @@
   position:absolute;
   left:15px;
   top:2144px;
-  width:253px;
-  height:48px;
+  width:294px;
+  height:144px;
   font-size:13px;
 }
 #u42_text {
@@ -1020,6 +1020,6 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:253px;
+  width:294px;
   white-space:nowrap;
 }
